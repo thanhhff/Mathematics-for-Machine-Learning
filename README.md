@@ -3,6 +3,8 @@ This repository will contain all the basic Mathematics knowledge required for Ma
 
 ## Algebra 
 
+> [Video: Gilbert Strang lectures on Linear Algebra (MIT)](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D)
+
 1. Set and mapping 
   - [ ] Sets and elements
   - [ ] Operations on sets
