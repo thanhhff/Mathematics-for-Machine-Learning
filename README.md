@@ -32,6 +32,6 @@ This repository will contain all the basic Mathematics knowledge required for Ma
   - [ ] Diagonalizing matrix
   - [ ] Orthogonal diagonalizing
   
-5. Quadratic forms 
+6. Quadratic forms 
 
 > Reference book: http://math.mit.edu/~gs/linearalgebra/
