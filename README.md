@@ -29,7 +29,7 @@ This repository will contain all the basic Mathematics knowledge required for Ma
   - [ ] Properties – kernel and image
   - [ ] Matrix of linear mapping
   
-5. Eigenvalues and eigenvectors (Giá trị riêng và véctơ riêng)
+5. Eigenvalues and eigenvectors 
   - [ ] Eigenvalues and eigenvectors
   - [ ] Diagonalizing matrix
   - [ ] Orthogonal diagonalizing
