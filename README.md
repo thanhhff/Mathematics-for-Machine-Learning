@@ -11,3 +11,5 @@ This repository will contain all the basic Mathematics knowledge required for Ma
     - [ ] Completed.
 4. Week 4
     - [ ] Completed.
+5. Week 5
+    - [ ] Completed.
